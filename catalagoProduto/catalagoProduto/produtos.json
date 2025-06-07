@@ -1,0 +1,23 @@
+[
+  {
+    "Id": "89896a85-e0ea-4c94-be7d-85383425919d",
+    "Nome": "Caf\u00E9",
+    "Descricao": "Bebida",
+    "Preco": 22,
+    "Estoque": 10
+  },
+  {
+    "Id": "0096becb-d601-4f3d-9361-bb2f18bde47f",
+    "Nome": "Banana",
+    "Descricao": "Fruta",
+    "Preco": 5,
+    "Estoque": 10
+  },
+  {
+    "Id": "0dcc94b2-70b3-484b-ad77-9dcbe6164795",
+    "Nome": "Caderno",
+    "Descricao": "Material Escolar",
+    "Preco": 17,
+    "Estoque": 10
+  }
+]
