@@ -85,5 +85,5 @@ Baseado em materiais didáticos e exercícios propostos com foco em arquitetura 
 
 ## 🖊 Feito Por 
 
-Pablo Emanuel Cechim Lima
+Pablo Emanuel Cechim Lima  e  
 Tawan Vitor Silva de Oliveira 
