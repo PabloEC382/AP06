@@ -1,0 +1,16 @@
+[
+  {
+    "Id": "39dd38c9-bec4-4828-ba18-b743fd3f3d76",
+    "NomeArquivo": "Planilha",
+    "TipoArquivo": "xlsx",
+    "TamanhoBytes": 280,
+    "DataUpload": "2025-06-08T11:57:17.7723041-03:00"
+  },
+  {
+    "Id": "120f31f0-c2f4-4fa6-b711-d9ef1efd4043",
+    "NomeArquivo": "Trabalho",
+    "TipoArquivo": "pdf",
+    "TamanhoBytes": 200,
+    "DataUpload": "2025-06-08T12:00:09.0772259-03:00"
+  }
+]
