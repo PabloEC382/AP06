@@ -1,0 +1,23 @@
+[
+  {
+    "Id": "a2c8e572-a142-4ece-97ba-11e00ddd0258",
+    "Titulo": "C\u00EDrculo de Fogo",
+    "Diretor": "Guillermo del Toro",
+    "AnoLancamento": 2013,
+    "Genero": "A\u00E7\u00E3o"
+  },
+  {
+    "Id": "d74d8abb-c258-46b1-8379-2f301ef9712d",
+    "Titulo": "Bastardos Ingl\u00F3rios",
+    "Diretor": "Quentin Tarantino",
+    "AnoLancamento": 2009,
+    "Genero": "A\u00E7\u00E3o"
+  },
+  {
+    "Id": "8e584a29-ef3a-4821-b01b-33297600d891",
+    "Titulo": "O Poderoso Chef\u00E3o",
+    "Diretor": "Francis Ford Coppola",
+    "AnoLancamento": 1972,
+    "Genero": "Drama"
+  }
+]
